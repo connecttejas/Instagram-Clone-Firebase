@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="12dp"
+    tools:context=".LoginActivity">
+
+   <ImageView
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:id="@+id/loginImageTextLogo"
+       android:src="@drawable/socialtextlogo"
+       ></ImageView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginTop="10dp"
+        android:hint="Email"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:id="@+id/loginEmail"></EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_text_background"
+        android:layout_marginTop="10dp"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:id="@+id/loginPassword"></EditText>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:id="@+id/loginLoginButton"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_background"
+        ></Button>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account yet? REGISTER"
+        android:id="@+id/loginRegisterText"></TextView>
+
+</LinearLayout>
