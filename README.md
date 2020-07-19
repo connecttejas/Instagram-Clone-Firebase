@@ -12,7 +12,7 @@ In this project some of the features of Instagram are implemented using Firebase
 
 Welcome Screen             | Register                  |  Login
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/connecttejas/Instagram-Clone-Firebase/blob/master/Screenshots/social_welcome.gif" width="200"> | <img src=https://github.com/connecttejas/Instagram-Clone-Firebase/blob/master/Screenshots/social_register.jpg" width="200">| <img src="https://github.com/connecttejas/Instagram-Clone-Firebase/blob/master/Screenshots/social_login.jpg" width="200">
+<img src="https://github.com/connecttejas/Instagram-Clone-Firebase/blob/master/Screenshots/social_welcome.gif" width="200"> | <img src="https://github.com/connecttejas/Instagram-Clone-Firebase/blob/master/Screenshots/social_register.jpg" width="200">| <img src="https://github.com/connecttejas/Instagram-Clone-Firebase/blob/master/Screenshots/social_login.jpg" width="200">
 
 
 
